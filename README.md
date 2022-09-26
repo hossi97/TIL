@@ -6,3 +6,5 @@
 -   [값에 의한 참조 Call by Value](./java/call-by-value/call-by-value.md)
 
 ## Spring
+
+-   [SOLID 5원칙](./spring/SOLID/SOLID.md)
